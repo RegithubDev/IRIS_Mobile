@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.core:core-ktx:1.8.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/Chalachithram-master/gradle/caches/transforms-3/4a8201c4d01a34e73df022d0db92364a/transformed/jetified-core-ktx-1.8.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Downloads/Chalachithram-master/gradle/caches/transforms-3/4a8201c4d01a34e73df022d0db92364a/transformed/jetified-core-ktx-1.8.0/res" />
+      <root url="file://$USER_HOME$/Downloads/Chalachithram-master/gradle/caches/transforms-3/4a8201c4d01a34e73df022d0db92364a/transformed/jetified-core-ktx-1.8.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/Chalachithram-master/gradle/caches/modules-2/files-2.1/androidx.core/core-ktx/1.8.0/3850f60ae5c85d51335279f163e90163587e2bef/core-ktx-1.8.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

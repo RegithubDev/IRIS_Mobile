@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: io.sentry:sentry-android:7.8.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/Chalachithram-master/gradle/caches/transforms-3/cfce5c4deb32379e20a3077fb18a6b2b/transformed/jetified-sentry-android-7.8.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Downloads/Chalachithram-master/gradle/caches/transforms-3/cfce5c4deb32379e20a3077fb18a6b2b/transformed/jetified-sentry-android-7.8.0/res" />
+      <root url="file://$USER_HOME$/Downloads/Chalachithram-master/gradle/caches/transforms-3/cfce5c4deb32379e20a3077fb18a6b2b/transformed/jetified-sentry-android-7.8.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Downloads/Chalachithram-master/gradle/caches/modules-2/files-2.1/io.sentry/sentry-android/7.8.0/5235507d003f46e8936cb548373134daa0a0cffe/sentry-android-7.8.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/Chalachithram-master/gradle/caches/modules-2/files-2.1/io.sentry/sentry-android/7.8.0/59f354769f40643ea7059f6fee4bb46708f60329/sentry-android-7.8.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

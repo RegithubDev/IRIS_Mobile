@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: io.sentry:sentry:7.8.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/Chalachithram-master/gradle/caches/modules-2/files-2.1/io.sentry/sentry/7.8.0/d36ac66af243ebb7cd6a9ba6ce7ebe630ce7823e/sentry-7.8.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Downloads/Chalachithram-master/gradle/caches/modules-2/files-2.1/io.sentry/sentry/7.8.0/d5103201df91229ac69ad714e9102c92d0397191/sentry-7.8.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/Chalachithram-master/gradle/caches/modules-2/files-2.1/io.sentry/sentry/7.8.0/8e503491b3f53da1d7b87b3f462b8053fafa9a58/sentry-7.8.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

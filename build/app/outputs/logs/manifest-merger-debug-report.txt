@@ -1,0 +1,734 @@
+-- Merging decision tree log ---
+application
+INJECTED from /Users/abhijithpc/AndroidStudioProjects/Reone_Android/android/app/src/main/AndroidManifest.xml:16:5-73:19
+MERGED from [:flutter_background_service_android] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/flutter_background_service_android/intermediates/merged_manifest/debug/AndroidManifest.xml:13:5-34:19
+MERGED from [:flutter_background_service_android] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/flutter_background_service_android/intermediates/merged_manifest/debug/AndroidManifest.xml:13:5-34:19
+MERGED from [:flutter_inappwebview] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:15:5-48:19
+MERGED from [:flutter_inappwebview] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:15:5-48:19
+MERGED from [:image_picker_android] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-34:19
+MERGED from [:image_picker_android] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-34:19
+MERGED from [:geolocator_android] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-15:19
+MERGED from [:geolocator_android] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-15:19
+MERGED from [:open_filex] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/open_filex/intermediates/merged_manifest/debug/AndroidManifest.xml:17:5-28:19
+MERGED from [:open_filex] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/open_filex/intermediates/merged_manifest/debug/AndroidManifest.xml:17:5-28:19
+MERGED from [:sentry_flutter] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/sentry_flutter/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-16:19
+MERGED from [:sentry_flutter] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/sentry_flutter/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-16:19
+MERGED from [:url_launcher_android] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-14:19
+MERGED from [:url_launcher_android] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-14:19
+MERGED from [androidx.window:window:1.0.0] /Users/abhijithpc/.gradle/caches/transforms-3/7da06a65f0da853f847ffe05942799c5/transformed/jetified-window-1.0.0/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0] /Users/abhijithpc/.gradle/caches/transforms-3/7da06a65f0da853f847ffe05942799c5/transformed/jetified-window-1.0.0/AndroidManifest.xml:24:5-31:19
+MERGED from [com.google.android.gms:play-services-location:21.2.0] /Users/abhijithpc/.gradle/caches/transforms-3/57952cc0e7b50ec014cf7bcf54579c38/transformed/jetified-play-services-location-21.2.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:21.2.0] /Users/abhijithpc/.gradle/caches/transforms-3/57952cc0e7b50ec014cf7bcf54579c38/transformed/jetified-play-services-location-21.2.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-auth:21.0.0] /Users/abhijithpc/.gradle/caches/transforms-3/2a518a01141a8df937dbcdb7258a1a51/transformed/jetified-play-services-auth-21.0.0/AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:21.0.0] /Users/abhijithpc/.gradle/caches/transforms-3/2a518a01141a8df937dbcdb7258a1a51/transformed/jetified-play-services-auth-21.0.0/AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-fido:20.0.1] /Users/abhijithpc/.gradle/caches/transforms-3/73715c4eeff76e1d573d8e61baff118d/transformed/jetified-play-services-fido-20.0.1/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-fido:20.0.1] /Users/abhijithpc/.gradle/caches/transforms-3/73715c4eeff76e1d573d8e61baff118d/transformed/jetified-play-services-fido-20.0.1/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:18.3.0] /Users/abhijithpc/.gradle/caches/transforms-3/4789ea3ed2867641957003add0eb1569/transformed/jetified-play-services-base-18.3.0/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.3.0] /Users/abhijithpc/.gradle/caches/transforms-3/4789ea3ed2867641957003add0eb1569/transformed/jetified-play-services-base-18.3.0/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] /Users/abhijithpc/.gradle/caches/transforms-3/012281399d0985f3bb99dce0ce9b0e0f/transformed/jetified-play-services-tasks-18.1.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] /Users/abhijithpc/.gradle/caches/transforms-3/012281399d0985f3bb99dce0ce9b0e0f/transformed/jetified-play-services-tasks-18.1.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] /Users/abhijithpc/.gradle/caches/transforms-3/0d09ddc51efd9403131e59bb3c595419/transformed/jetified-play-services-basement-18.3.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] /Users/abhijithpc/.gradle/caches/transforms-3/0d09ddc51efd9403131e59bb3c595419/transformed/jetified-play-services-basement-18.3.0/AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/abhijithpc/.gradle/caches/transforms-3/b456049c067cd6ca977b003fbfd6fe85/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/abhijithpc/.gradle/caches/transforms-3/b456049c067cd6ca977b003fbfd6fe85/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [io.sentry:sentry-android-core:7.8.0] /Users/abhijithpc/.gradle/caches/transforms-3/2859a1128fc2e2105829078b541c2850/transformed/jetified-sentry-android-core-7.8.0/AndroidManifest.xml:9:5-21:19
+MERGED from [io.sentry:sentry-android-core:7.8.0] /Users/abhijithpc/.gradle/caches/transforms-3/2859a1128fc2e2105829078b541c2850/transformed/jetified-sentry-android-core-7.8.0/AndroidManifest.xml:9:5-21:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/abhijithpc/.gradle/caches/transforms-3/89b9e858071464c57c03ddc4f57d9964/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/abhijithpc/.gradle/caches/transforms-3/89b9e858071464c57c03ddc4f57d9964/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.13.0] /Users/abhijithpc/.gradle/caches/transforms-3/38470c5b6c987eeb760c853f0a18aaca/transformed/core-1.13.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.0] /Users/abhijithpc/.gradle/caches/transforms-3/38470c5b6c987eeb760c853f0a18aaca/transformed/core-1.13.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/abhijithpc/.gradle/caches/transforms-3/fa01b6ea80df603e409f5b338b263b5a/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/abhijithpc/.gradle/caches/transforms-3/fa01b6ea80df603e409f5b338b263b5a/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/abhijithpc/.gradle/caches/transforms-3/404fa93f81bb7308b89dbdcb6da04ae8/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/abhijithpc/.gradle/caches/transforms-3/404fa93f81bb7308b89dbdcb6da04ae8/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/abhijithpc/.gradle/caches/transforms-3/f736546f411bdb4a8545edb66d057292/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/abhijithpc/.gradle/caches/transforms-3/f736546f411bdb4a8545edb66d057292/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.0] /Users/abhijithpc/.gradle/caches/transforms-3/38470c5b6c987eeb760c853f0a18aaca/transformed/core-1.13.0/AndroidManifest.xml:28:18-86
+	android:name
+		INJECTED from /Users/abhijithpc/AndroidStudioProjects/Reone_Android/android/app/src/main/AndroidManifest.xml
+provider#androidx.core.content.FileProvider
+INJECTED from /Users/abhijithpc/AndroidStudioProjects/Reone_Android/android/app/src/main/AndroidManifest.xml:64:9-72:20
+	android:authorities
+		INJECTED from /Users/abhijithpc/AndroidStudioProjects/Reone_Android/android/app/src/main/AndroidManifest.xml
+manifest
+ADDED from /Users/abhijithpc/AndroidStudioProjects/Reone_Android/android/app/src/main/AndroidManifest.xml:1:1-74:12
+INJECTED from /Users/abhijithpc/AndroidStudioProjects/Reone_Android/android/app/src/main/AndroidManifest.xml:1:1-74:12
+INJECTED from /Users/abhijithpc/AndroidStudioProjects/Reone_Android/android/app/src/main/AndroidManifest.xml:1:1-74:12
+INJECTED from /Users/abhijithpc/AndroidStudioProjects/Reone_Android/android/app/src/main/AndroidManifest.xml:1:1-74:12
+MERGED from /Users/abhijithpc/AndroidStudioProjects/Reone_Android/android/app/src/main/AndroidManifest.xml:1:1-74:12
+MERGED from [:android_intent_plus] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/android_intent_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:device_info_plus] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/device_info_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:external_app_launcher] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/external_app_launcher/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:file_picker] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/file_picker/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-21:12
+MERGED from [:flutter_background_service_android] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/flutter_background_service_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-36:12
+MERGED from [:flutter_image_compress_common] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/flutter_image_compress_common/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:flutter_inappwebview] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-50:12
+MERGED from [:flutter_local_notifications] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-12:12
+MERGED from [:flutter_pdfview] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/flutter_pdfview/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:image_picker_android] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-36:12
+MERGED from [:flutter_plugin_android_lifecycle] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/flutter_plugin_android_lifecycle/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:geolocator_android] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-17:12
+MERGED from [:google_sign_in_android] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/google_sign_in_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:open_filex] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/open_filex/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-30:12
+MERGED from [:sentry_flutter] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/sentry_flutter/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-18:12
+MERGED from [:package_info_plus] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/package_info_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:path_provider_android] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/path_provider_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:permission_handler_android] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/permission_handler_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:root] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/root/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:shared_preferences_android] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/shared_preferences_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:sqflite] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/sqflite/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:url_launcher_android] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-16:12
+MERGED from [:webview_flutter_android] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/webview_flutter_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.window:window-java:1.0.0] /Users/abhijithpc/.gradle/caches/transforms-3/3e90e0c7e31ef0337e489fcef046abcf/transformed/jetified-window-java-1.0.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0] /Users/abhijithpc/.gradle/caches/transforms-3/7da06a65f0da853f847ffe05942799c5/transformed/jetified-window-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [com.google.android.gms:play-services-location:21.2.0] /Users/abhijithpc/.gradle/caches/transforms-3/57952cc0e7b50ec014cf7bcf54579c38/transformed/jetified-play-services-location-21.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.webkit:webkit:1.5.0] /Users/abhijithpc/.gradle/caches/transforms-3/3b80513bd655442bf3c97ac1701b6fcd/transformed/webkit-1.5.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/abhijithpc/.gradle/caches/transforms-3/c991b0998f31fe77ce52b43706204307/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.1.0] /Users/abhijithpc/.gradle/caches/transforms-3/5f4807eabbb25ce6416f739dec84dfd1/transformed/media-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.mhiew:android-pdf-viewer:3.2.0-beta.3] /Users/abhijithpc/.gradle/caches/transforms-3/7af69ee2126c7f56da5e0048619e5595/transformed/jetified-android-pdf-viewer-3.2.0-beta.3/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/abhijithpc/.gradle/caches/transforms-3/72c814e41ae41a504d7cf6f56ccb0fc9/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/abhijithpc/.gradle/caches/transforms-3/6358c89c00f7bc38d464ead4ccc3bd6c/transformed/appcompat-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-auth:21.0.0] /Users/abhijithpc/.gradle/caches/transforms-3/2a518a01141a8df937dbcdb7258a1a51/transformed/jetified-play-services-auth-21.0.0/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] /Users/abhijithpc/.gradle/caches/transforms-3/ac6a8b7d64de7bab3710551c0eaca573/transformed/jetified-play-services-auth-api-phone-18.0.2/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.10] /Users/abhijithpc/.gradle/caches/transforms-3/d45c0a98e3a3c8a5c2472cae083a348b/transformed/jetified-play-services-auth-base-18.0.10/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-fido:20.0.1] /Users/abhijithpc/.gradle/caches/transforms-3/73715c4eeff76e1d573d8e61baff118d/transformed/jetified-play-services-fido-20.0.1/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:18.3.0] /Users/abhijithpc/.gradle/caches/transforms-3/4789ea3ed2867641957003add0eb1569/transformed/jetified-play-services-base-18.3.0/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] /Users/abhijithpc/.gradle/caches/transforms-3/012281399d0985f3bb99dce0ce9b0e0f/transformed/jetified-play-services-tasks-18.1.0/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] /Users/abhijithpc/.gradle/caches/transforms-3/0d09ddc51efd9403131e59bb3c595419/transformed/jetified-play-services-basement-18.3.0/AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.5.7] /Users/abhijithpc/.gradle/caches/transforms-3/cb0dfd37c19a24561f385d014fc87ec0/transformed/fragment-1.5.7/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.7.2] /Users/abhijithpc/.gradle/caches/transforms-3/382e0ea377abb87da95d629852642e17/transformed/jetified-activity-1.7.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.browser:browser:1.5.0] /Users/abhijithpc/.gradle/caches/transforms-3/6b123dfb6e2ab10c53fb5a73bad24555/transformed/browser-1.5.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.1.0] /Users/abhijithpc/.gradle/caches/transforms-3/5c4101ed4c865ffc002b35701f80c559/transformed/loader-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/abhijithpc/.gradle/caches/transforms-3/585adae701ab48c10ac534b60e8824b5/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/abhijithpc/.gradle/caches/transforms-3/03e2a2f377eed0ea8e8b6acaec49bf1a/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/abhijithpc/.gradle/caches/transforms-3/b456049c067cd6ca977b003fbfd6fe85/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:17:1-35:12
+MERGED from [io.sentry:sentry-android:7.8.0] /Users/abhijithpc/.gradle/caches/transforms-3/0aa1d8ccc99342b7150b5a8397e31356/transformed/jetified-sentry-android-7.8.0/AndroidManifest.xml:2:1-10:12
+MERGED from [io.sentry:sentry-android-ndk:7.8.0] /Users/abhijithpc/.gradle/caches/transforms-3/2e9e3171d9d7218b97673169dcc00e36/transformed/jetified-sentry-android-ndk-7.8.0/AndroidManifest.xml:2:1-7:12
+MERGED from [io.sentry:sentry-android-core:7.8.0] /Users/abhijithpc/.gradle/caches/transforms-3/2859a1128fc2e2105829078b541c2850/transformed/jetified-sentry-android-core-7.8.0/AndroidManifest.xml:2:1-23:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/abhijithpc/.gradle/caches/transforms-3/c3dee9d4e75559549ceaa388f1478921/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/abhijithpc/.gradle/caches/transforms-3/89b9e858071464c57c03ddc4f57d9964/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Users/abhijithpc/.gradle/caches/transforms-3/06ea8549c56c7f6f2ecf148c0f47e900/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /Users/abhijithpc/.gradle/caches/transforms-3/4cdca24dc42784e8751ab256035596d6/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Users/abhijithpc/.gradle/caches/transforms-3/c0940e01b72c72c68d2986922fe761d0/transformed/jetified-lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.13.0] /Users/abhijithpc/.gradle/caches/transforms-3/b974b6c3eafeced1118be09cd36d8d2f/transformed/jetified-core-ktx-1.13.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/abhijithpc/.gradle/caches/transforms-3/3537edda8c78e0c4271b49ab045d2bb4/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/abhijithpc/.gradle/caches/transforms-3/c548344c0a63eccae2476c009e89de55/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/abhijithpc/.gradle/caches/transforms-3/3d8b22f24eee31682518a259a03bf16c/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.13.0] /Users/abhijithpc/.gradle/caches/transforms-3/38470c5b6c987eeb760c853f0a18aaca/transformed/core-1.13.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Users/abhijithpc/.gradle/caches/transforms-3/a734b93a1a90731b25117288794de256/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/abhijithpc/.gradle/caches/transforms-3/ce70ec1ef08be6bc5d739b9dfd7801cd/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.heifwriter:heifwriter:1.0.0] /Users/abhijithpc/.gradle/caches/transforms-3/134abd086c87d1159a79a599f687a8a3/transformed/heifwriter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.7] /Users/abhijithpc/.gradle/caches/transforms-3/fe891ce8a289f5aad27eb616006d89e4/transformed/exifinterface-1.3.7/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.topjohnwu.libsu:core:5.0.2] /Users/abhijithpc/.gradle/caches/transforms-3/f5a7f1b0e8a36e9e5fe78078f4ccb736/transformed/jetified-core-5.0.2/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/abhijithpc/.gradle/caches/transforms-3/fa01b6ea80df603e409f5b338b263b5a/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/abhijithpc/.gradle/caches/transforms-3/404fa93f81bb7308b89dbdcb6da04ae8/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/abhijithpc/.gradle/caches/transforms-3/f736546f411bdb4a8545edb66d057292/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/abhijithpc/.gradle/caches/transforms-3/39a587e94b6d8a6732c01216d89c14b7/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/abhijithpc/.gradle/caches/transforms-3/6438d145f081bd2212bfcd0c5583f533/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/abhijithpc/.gradle/caches/transforms-3/3c678a2bf654801f405e0417b87a8303/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/abhijithpc/.gradle/caches/transforms-3/e3753e6b910665d44b476d2a5fa0145d/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/abhijithpc/.gradle/caches/transforms-3/fe4694733e0f7039debd01242b751919/transformed/jetified-annotation-experimental-1.4.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.github.mhiew:pdfium-android:1.9.2] /Users/abhijithpc/.gradle/caches/transforms-3/058bd41ab346c1fe1a81eac9c4d2e8c3/transformed/jetified-pdfium-android-1.9.2/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/abhijithpc/AndroidStudioProjects/Reone_Android/android/app/src/debug/AndroidManifest.xml:1:1-8:12
+INJECTED from /Users/abhijithpc/AndroidStudioProjects/Reone_Android/android/app/src/debug/AndroidManifest.xml:1:1-8:12
+INJECTED from /Users/abhijithpc/AndroidStudioProjects/Reone_Android/android/app/src/debug/AndroidManifest.xml:1:1-8:12
+	package
+		ADDED from /Users/abhijithpc/AndroidStudioProjects/Reone_Android/android/app/src/main/AndroidManifest.xml:2:5-48
+		INJECTED from /Users/abhijithpc/AndroidStudioProjects/Reone_Android/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/abhijithpc/AndroidStudioProjects/Reone_Android/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/abhijithpc/AndroidStudioProjects/Reone_Android/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/abhijithpc/AndroidStudioProjects/Reone_Android/android/app/src/main/AndroidManifest.xml:1:1-74:12
+		INJECTED from /Users/abhijithpc/AndroidStudioProjects/Reone_Android/android/app/src/debug/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/abhijithpc/AndroidStudioProjects/Reone_Android/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/abhijithpc/AndroidStudioProjects/Reone_Android/android/app/src/main/AndroidManifest.xml:1:1-74:12
+		INJECTED from /Users/abhijithpc/AndroidStudioProjects/Reone_Android/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/abhijithpc/AndroidStudioProjects/Reone_Android/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/abhijithpc/AndroidStudioProjects/Reone_Android/android/app/src/main/AndroidManifest.xml:3:5-78
+	android:name
+		ADDED from /Users/abhijithpc/AndroidStudioProjects/Reone_Android/android/app/src/main/AndroidManifest.xml:3:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/abhijithpc/AndroidStudioProjects/Reone_Android/android/app/src/main/AndroidManifest.xml:4:5-80
+	android:name
+		ADDED from /Users/abhijithpc/AndroidStudioProjects/Reone_Android/android/app/src/main/AndroidManifest.xml:4:22-78
+uses-permission#android.permission.INTERNET
+ADDED from /Users/abhijithpc/AndroidStudioProjects/Reone_Android/android/app/src/main/AndroidManifest.xml:5:5-66
+MERGED from /Users/abhijithpc/AndroidStudioProjects/Reone_Android/android/app/src/main/AndroidManifest.xml:5:5-66
+MERGED from /Users/abhijithpc/AndroidStudioProjects/Reone_Android/android/app/src/main/AndroidManifest.xml:5:5-66
+MERGED from [:google_sign_in_android] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/google_sign_in_android/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [:google_sign_in_android] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/google_sign_in_android/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [io.sentry:sentry-android-core:7.8.0] /Users/abhijithpc/.gradle/caches/transforms-3/2859a1128fc2e2105829078b541c2850/transformed/jetified-sentry-android-core-7.8.0/AndroidManifest.xml:7:5-67
+MERGED from [io.sentry:sentry-android-core:7.8.0] /Users/abhijithpc/.gradle/caches/transforms-3/2859a1128fc2e2105829078b541c2850/transformed/jetified-sentry-android-core-7.8.0/AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from /Users/abhijithpc/AndroidStudioProjects/Reone_Android/android/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.CAMERA
+ADDED from /Users/abhijithpc/AndroidStudioProjects/Reone_Android/android/app/src/main/AndroidManifest.xml:6:5-64
+	android:name
+		ADDED from /Users/abhijithpc/AndroidStudioProjects/Reone_Android/android/app/src/main/AndroidManifest.xml:6:22-62
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/abhijithpc/AndroidStudioProjects/Reone_Android/android/app/src/main/AndroidManifest.xml:7:5-79
+MERGED from [:file_picker] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/file_picker/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-11:38
+MERGED from [:file_picker] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/file_picker/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-11:38
+MERGED from [:open_filex] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/open_filex/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-12:38
+MERGED from [:open_filex] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/open_filex/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-12:38
+	android:maxSdkVersion
+		ADDED from [:file_picker] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/file_picker/intermediates/merged_manifest/debug/AndroidManifest.xml:11:9-35
+	android:name
+		ADDED from /Users/abhijithpc/AndroidStudioProjects/Reone_Android/android/app/src/main/AndroidManifest.xml:7:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/abhijithpc/AndroidStudioProjects/Reone_Android/android/app/src/main/AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from /Users/abhijithpc/AndroidStudioProjects/Reone_Android/android/app/src/main/AndroidManifest.xml:8:22-78
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from /Users/abhijithpc/AndroidStudioProjects/Reone_Android/android/app/src/main/AndroidManifest.xml:9:5-76
+MERGED from [:flutter_local_notifications] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-77
+MERGED from [:flutter_local_notifications] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-77
+	android:name
+		ADDED from /Users/abhijithpc/AndroidStudioProjects/Reone_Android/android/app/src/main/AndroidManifest.xml:9:22-74
+queries
+ADDED from /Users/abhijithpc/AndroidStudioProjects/Reone_Android/android/app/src/main/AndroidManifest.xml:11:5-14:15
+MERGED from [:file_picker] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/file_picker/intermediates/merged_manifest/debug/AndroidManifest.xml:13:5-19:15
+MERGED from [:file_picker] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/file_picker/intermediates/merged_manifest/debug/AndroidManifest.xml:13:5-19:15
+MERGED from [:flutter_inappwebview] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-13:15
+MERGED from [:flutter_inappwebview] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-13:15
+package#com.google.android.apps.dynamite
+ADDED from /Users/abhijithpc/AndroidStudioProjects/Reone_Android/android/app/src/main/AndroidManifest.xml:12:9-68
+	android:name
+		ADDED from /Users/abhijithpc/AndroidStudioProjects/Reone_Android/android/app/src/main/AndroidManifest.xml:12:18-65
+package#com.darwinbox.darwinbox
+ADDED from /Users/abhijithpc/AndroidStudioProjects/Reone_Android/android/app/src/main/AndroidManifest.xml:13:9-59
+	android:name
+		ADDED from /Users/abhijithpc/AndroidStudioProjects/Reone_Android/android/app/src/main/AndroidManifest.xml:13:18-56
+uses-sdk
+INJECTED from /Users/abhijithpc/AndroidStudioProjects/Reone_Android/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/abhijithpc/AndroidStudioProjects/Reone_Android/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/abhijithpc/AndroidStudioProjects/Reone_Android/android/app/src/main/AndroidManifest.xml
+MERGED from [:android_intent_plus] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/android_intent_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:android_intent_plus] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/android_intent_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:device_info_plus] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/device_info_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:device_info_plus] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/device_info_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:external_app_launcher] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/external_app_launcher/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:external_app_launcher] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/external_app_launcher/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:file_picker] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/file_picker/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:file_picker] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/file_picker/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_background_service_android] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/flutter_background_service_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_background_service_android] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/flutter_background_service_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_image_compress_common] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/flutter_image_compress_common/intermediates/merged_manifest/debug/AndroidManifest.xml:6:5-9:55
+MERGED from [:flutter_image_compress_common] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/flutter_image_compress_common/intermediates/merged_manifest/debug/AndroidManifest.xml:6:5-9:55
+MERGED from [:flutter_inappwebview] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_inappwebview] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_local_notifications] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_local_notifications] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_pdfview] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/flutter_pdfview/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_pdfview] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/flutter_pdfview/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:image_picker_android] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:6:5-8:41
+MERGED from [:image_picker_android] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:6:5-8:41
+MERGED from [:flutter_plugin_android_lifecycle] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/flutter_plugin_android_lifecycle/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_plugin_android_lifecycle] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/flutter_plugin_android_lifecycle/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:geolocator_android] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:geolocator_android] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:google_sign_in_android] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/google_sign_in_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:google_sign_in_android] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/google_sign_in_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:open_filex] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/open_filex/intermediates/merged_manifest/debug/AndroidManifest.xml:6:5-8:41
+MERGED from [:open_filex] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/open_filex/intermediates/merged_manifest/debug/AndroidManifest.xml:6:5-8:41
+MERGED from [:sentry_flutter] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/sentry_flutter/intermediates/merged_manifest/debug/AndroidManifest.xml:6:5-8:41
+MERGED from [:sentry_flutter] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/sentry_flutter/intermediates/merged_manifest/debug/AndroidManifest.xml:6:5-8:41
+MERGED from [:package_info_plus] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/package_info_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:package_info_plus] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/package_info_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:path_provider_android] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/path_provider_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:path_provider_android] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/path_provider_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:permission_handler_android] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/permission_handler_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:permission_handler_android] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/permission_handler_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:root] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/root/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:root] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/root/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:shared_preferences_android] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/shared_preferences_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:shared_preferences_android] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/shared_preferences_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:sqflite] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/sqflite/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:sqflite] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/sqflite/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:url_launcher_android] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:url_launcher_android] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:webview_flutter_android] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/webview_flutter_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:webview_flutter_android] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/webview_flutter_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.window:window-java:1.0.0] /Users/abhijithpc/.gradle/caches/transforms-3/3e90e0c7e31ef0337e489fcef046abcf/transformed/jetified-window-java-1.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0] /Users/abhijithpc/.gradle/caches/transforms-3/3e90e0c7e31ef0337e489fcef046abcf/transformed/jetified-window-java-1.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0] /Users/abhijithpc/.gradle/caches/transforms-3/7da06a65f0da853f847ffe05942799c5/transformed/jetified-window-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] /Users/abhijithpc/.gradle/caches/transforms-3/7da06a65f0da853f847ffe05942799c5/transformed/jetified-window-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-location:21.2.0] /Users/abhijithpc/.gradle/caches/transforms-3/57952cc0e7b50ec014cf7bcf54579c38/transformed/jetified-play-services-location-21.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:21.2.0] /Users/abhijithpc/.gradle/caches/transforms-3/57952cc0e7b50ec014cf7bcf54579c38/transformed/jetified-play-services-location-21.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.webkit:webkit:1.5.0] /Users/abhijithpc/.gradle/caches/transforms-3/3b80513bd655442bf3c97ac1701b6fcd/transformed/webkit-1.5.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.webkit:webkit:1.5.0] /Users/abhijithpc/.gradle/caches/transforms-3/3b80513bd655442bf3c97ac1701b6fcd/transformed/webkit-1.5.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/abhijithpc/.gradle/caches/transforms-3/c991b0998f31fe77ce52b43706204307/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/abhijithpc/.gradle/caches/transforms-3/c991b0998f31fe77ce52b43706204307/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.1.0] /Users/abhijithpc/.gradle/caches/transforms-3/5f4807eabbb25ce6416f739dec84dfd1/transformed/media-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.1.0] /Users/abhijithpc/.gradle/caches/transforms-3/5f4807eabbb25ce6416f739dec84dfd1/transformed/media-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.mhiew:android-pdf-viewer:3.2.0-beta.3] /Users/abhijithpc/.gradle/caches/transforms-3/7af69ee2126c7f56da5e0048619e5595/transformed/jetified-android-pdf-viewer-3.2.0-beta.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.mhiew:android-pdf-viewer:3.2.0-beta.3] /Users/abhijithpc/.gradle/caches/transforms-3/7af69ee2126c7f56da5e0048619e5595/transformed/jetified-android-pdf-viewer-3.2.0-beta.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/abhijithpc/.gradle/caches/transforms-3/72c814e41ae41a504d7cf6f56ccb0fc9/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/abhijithpc/.gradle/caches/transforms-3/72c814e41ae41a504d7cf6f56ccb0fc9/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/abhijithpc/.gradle/caches/transforms-3/6358c89c00f7bc38d464ead4ccc3bd6c/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/abhijithpc/.gradle/caches/transforms-3/6358c89c00f7bc38d464ead4ccc3bd6c/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:21.0.0] /Users/abhijithpc/.gradle/caches/transforms-3/2a518a01141a8df937dbcdb7258a1a51/transformed/jetified-play-services-auth-21.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:21.0.0] /Users/abhijithpc/.gradle/caches/transforms-3/2a518a01141a8df937dbcdb7258a1a51/transformed/jetified-play-services-auth-21.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] /Users/abhijithpc/.gradle/caches/transforms-3/ac6a8b7d64de7bab3710551c0eaca573/transformed/jetified-play-services-auth-api-phone-18.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] /Users/abhijithpc/.gradle/caches/transforms-3/ac6a8b7d64de7bab3710551c0eaca573/transformed/jetified-play-services-auth-api-phone-18.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.10] /Users/abhijithpc/.gradle/caches/transforms-3/d45c0a98e3a3c8a5c2472cae083a348b/transformed/jetified-play-services-auth-base-18.0.10/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.10] /Users/abhijithpc/.gradle/caches/transforms-3/d45c0a98e3a3c8a5c2472cae083a348b/transformed/jetified-play-services-auth-base-18.0.10/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:20.0.1] /Users/abhijithpc/.gradle/caches/transforms-3/73715c4eeff76e1d573d8e61baff118d/transformed/jetified-play-services-fido-20.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:20.0.1] /Users/abhijithpc/.gradle/caches/transforms-3/73715c4eeff76e1d573d8e61baff118d/transformed/jetified-play-services-fido-20.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:18.3.0] /Users/abhijithpc/.gradle/caches/transforms-3/4789ea3ed2867641957003add0eb1569/transformed/jetified-play-services-base-18.3.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.3.0] /Users/abhijithpc/.gradle/caches/transforms-3/4789ea3ed2867641957003add0eb1569/transformed/jetified-play-services-base-18.3.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] /Users/abhijithpc/.gradle/caches/transforms-3/012281399d0985f3bb99dce0ce9b0e0f/transformed/jetified-play-services-tasks-18.1.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] /Users/abhijithpc/.gradle/caches/transforms-3/012281399d0985f3bb99dce0ce9b0e0f/transformed/jetified-play-services-tasks-18.1.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] /Users/abhijithpc/.gradle/caches/transforms-3/0d09ddc51efd9403131e59bb3c595419/transformed/jetified-play-services-basement-18.3.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] /Users/abhijithpc/.gradle/caches/transforms-3/0d09ddc51efd9403131e59bb3c595419/transformed/jetified-play-services-basement-18.3.0/AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.5.7] /Users/abhijithpc/.gradle/caches/transforms-3/cb0dfd37c19a24561f385d014fc87ec0/transformed/fragment-1.5.7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.7] /Users/abhijithpc/.gradle/caches/transforms-3/cb0dfd37c19a24561f385d014fc87ec0/transformed/fragment-1.5.7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.7.2] /Users/abhijithpc/.gradle/caches/transforms-3/382e0ea377abb87da95d629852642e17/transformed/jetified-activity-1.7.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.7.2] /Users/abhijithpc/.gradle/caches/transforms-3/382e0ea377abb87da95d629852642e17/transformed/jetified-activity-1.7.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.5.0] /Users/abhijithpc/.gradle/caches/transforms-3/6b123dfb6e2ab10c53fb5a73bad24555/transformed/browser-1.5.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.5.0] /Users/abhijithpc/.gradle/caches/transforms-3/6b123dfb6e2ab10c53fb5a73bad24555/transformed/browser-1.5.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.1.0] /Users/abhijithpc/.gradle/caches/transforms-3/5c4101ed4c865ffc002b35701f80c559/transformed/loader-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.1.0] /Users/abhijithpc/.gradle/caches/transforms-3/5c4101ed4c865ffc002b35701f80c559/transformed/loader-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/abhijithpc/.gradle/caches/transforms-3/585adae701ab48c10ac534b60e8824b5/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/abhijithpc/.gradle/caches/transforms-3/585adae701ab48c10ac534b60e8824b5/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/abhijithpc/.gradle/caches/transforms-3/03e2a2f377eed0ea8e8b6acaec49bf1a/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/abhijithpc/.gradle/caches/transforms-3/03e2a2f377eed0ea8e8b6acaec49bf1a/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/abhijithpc/.gradle/caches/transforms-3/b456049c067cd6ca977b003fbfd6fe85/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/abhijithpc/.gradle/caches/transforms-3/b456049c067cd6ca977b003fbfd6fe85/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [io.sentry:sentry-android:7.8.0] /Users/abhijithpc/.gradle/caches/transforms-3/0aa1d8ccc99342b7150b5a8397e31356/transformed/jetified-sentry-android-7.8.0/AndroidManifest.xml:6:5-8:57
+MERGED from [io.sentry:sentry-android:7.8.0] /Users/abhijithpc/.gradle/caches/transforms-3/0aa1d8ccc99342b7150b5a8397e31356/transformed/jetified-sentry-android-7.8.0/AndroidManifest.xml:6:5-8:57
+MERGED from [io.sentry:sentry-android-ndk:7.8.0] /Users/abhijithpc/.gradle/caches/transforms-3/2e9e3171d9d7218b97673169dcc00e36/transformed/jetified-sentry-android-ndk-7.8.0/AndroidManifest.xml:5:5-44
+MERGED from [io.sentry:sentry-android-ndk:7.8.0] /Users/abhijithpc/.gradle/caches/transforms-3/2e9e3171d9d7218b97673169dcc00e36/transformed/jetified-sentry-android-ndk-7.8.0/AndroidManifest.xml:5:5-44
+MERGED from [io.sentry:sentry-android-core:7.8.0] /Users/abhijithpc/.gradle/caches/transforms-3/2859a1128fc2e2105829078b541c2850/transformed/jetified-sentry-android-core-7.8.0/AndroidManifest.xml:5:5-44
+MERGED from [io.sentry:sentry-android-core:7.8.0] /Users/abhijithpc/.gradle/caches/transforms-3/2859a1128fc2e2105829078b541c2850/transformed/jetified-sentry-android-core-7.8.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/abhijithpc/.gradle/caches/transforms-3/c3dee9d4e75559549ceaa388f1478921/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/abhijithpc/.gradle/caches/transforms-3/c3dee9d4e75559549ceaa388f1478921/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/abhijithpc/.gradle/caches/transforms-3/89b9e858071464c57c03ddc4f57d9964/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/abhijithpc/.gradle/caches/transforms-3/89b9e858071464c57c03ddc4f57d9964/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Users/abhijithpc/.gradle/caches/transforms-3/06ea8549c56c7f6f2ecf148c0f47e900/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Users/abhijithpc/.gradle/caches/transforms-3/06ea8549c56c7f6f2ecf148c0f47e900/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /Users/abhijithpc/.gradle/caches/transforms-3/4cdca24dc42784e8751ab256035596d6/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /Users/abhijithpc/.gradle/caches/transforms-3/4cdca24dc42784e8751ab256035596d6/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Users/abhijithpc/.gradle/caches/transforms-3/c0940e01b72c72c68d2986922fe761d0/transformed/jetified-lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Users/abhijithpc/.gradle/caches/transforms-3/c0940e01b72c72c68d2986922fe761d0/transformed/jetified-lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.13.0] /Users/abhijithpc/.gradle/caches/transforms-3/b974b6c3eafeced1118be09cd36d8d2f/transformed/jetified-core-ktx-1.13.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.0] /Users/abhijithpc/.gradle/caches/transforms-3/b974b6c3eafeced1118be09cd36d8d2f/transformed/jetified-core-ktx-1.13.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/abhijithpc/.gradle/caches/transforms-3/3537edda8c78e0c4271b49ab045d2bb4/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/abhijithpc/.gradle/caches/transforms-3/3537edda8c78e0c4271b49ab045d2bb4/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/abhijithpc/.gradle/caches/transforms-3/c548344c0a63eccae2476c009e89de55/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/abhijithpc/.gradle/caches/transforms-3/c548344c0a63eccae2476c009e89de55/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/abhijithpc/.gradle/caches/transforms-3/3d8b22f24eee31682518a259a03bf16c/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/abhijithpc/.gradle/caches/transforms-3/3d8b22f24eee31682518a259a03bf16c/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.0] /Users/abhijithpc/.gradle/caches/transforms-3/38470c5b6c987eeb760c853f0a18aaca/transformed/core-1.13.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.0] /Users/abhijithpc/.gradle/caches/transforms-3/38470c5b6c987eeb760c853f0a18aaca/transformed/core-1.13.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Users/abhijithpc/.gradle/caches/transforms-3/a734b93a1a90731b25117288794de256/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Users/abhijithpc/.gradle/caches/transforms-3/a734b93a1a90731b25117288794de256/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/abhijithpc/.gradle/caches/transforms-3/ce70ec1ef08be6bc5d739b9dfd7801cd/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/abhijithpc/.gradle/caches/transforms-3/ce70ec1ef08be6bc5d739b9dfd7801cd/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.heifwriter:heifwriter:1.0.0] /Users/abhijithpc/.gradle/caches/transforms-3/134abd086c87d1159a79a599f687a8a3/transformed/heifwriter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.heifwriter:heifwriter:1.0.0] /Users/abhijithpc/.gradle/caches/transforms-3/134abd086c87d1159a79a599f687a8a3/transformed/heifwriter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.3.7] /Users/abhijithpc/.gradle/caches/transforms-3/fe891ce8a289f5aad27eb616006d89e4/transformed/exifinterface-1.3.7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.7] /Users/abhijithpc/.gradle/caches/transforms-3/fe891ce8a289f5aad27eb616006d89e4/transformed/exifinterface-1.3.7/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.topjohnwu.libsu:core:5.0.2] /Users/abhijithpc/.gradle/caches/transforms-3/f5a7f1b0e8a36e9e5fe78078f4ccb736/transformed/jetified-core-5.0.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.topjohnwu.libsu:core:5.0.2] /Users/abhijithpc/.gradle/caches/transforms-3/f5a7f1b0e8a36e9e5fe78078f4ccb736/transformed/jetified-core-5.0.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/abhijithpc/.gradle/caches/transforms-3/fa01b6ea80df603e409f5b338b263b5a/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/abhijithpc/.gradle/caches/transforms-3/fa01b6ea80df603e409f5b338b263b5a/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/abhijithpc/.gradle/caches/transforms-3/404fa93f81bb7308b89dbdcb6da04ae8/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/abhijithpc/.gradle/caches/transforms-3/404fa93f81bb7308b89dbdcb6da04ae8/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/abhijithpc/.gradle/caches/transforms-3/f736546f411bdb4a8545edb66d057292/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/abhijithpc/.gradle/caches/transforms-3/f736546f411bdb4a8545edb66d057292/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/abhijithpc/.gradle/caches/transforms-3/39a587e94b6d8a6732c01216d89c14b7/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/abhijithpc/.gradle/caches/transforms-3/39a587e94b6d8a6732c01216d89c14b7/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/abhijithpc/.gradle/caches/transforms-3/6438d145f081bd2212bfcd0c5583f533/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/abhijithpc/.gradle/caches/transforms-3/6438d145f081bd2212bfcd0c5583f533/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/abhijithpc/.gradle/caches/transforms-3/3c678a2bf654801f405e0417b87a8303/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/abhijithpc/.gradle/caches/transforms-3/3c678a2bf654801f405e0417b87a8303/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/abhijithpc/.gradle/caches/transforms-3/e3753e6b910665d44b476d2a5fa0145d/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/abhijithpc/.gradle/caches/transforms-3/e3753e6b910665d44b476d2a5fa0145d/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/abhijithpc/.gradle/caches/transforms-3/fe4694733e0f7039debd01242b751919/transformed/jetified-annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/abhijithpc/.gradle/caches/transforms-3/fe4694733e0f7039debd01242b751919/transformed/jetified-annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.github.mhiew:pdfium-android:1.9.2] /Users/abhijithpc/.gradle/caches/transforms-3/058bd41ab346c1fe1a81eac9c4d2e8c3/transformed/jetified-pdfium-android-1.9.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.mhiew:pdfium-android:1.9.2] /Users/abhijithpc/.gradle/caches/transforms-3/058bd41ab346c1fe1a81eac9c4d2e8c3/transformed/jetified-pdfium-android-1.9.2/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/abhijithpc/AndroidStudioProjects/Reone_Android/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/abhijithpc/AndroidStudioProjects/Reone_Android/android/app/src/debug/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [:flutter_image_compress_common] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/flutter_image_compress_common/intermediates/merged_manifest/debug/AndroidManifest.xml:9:9-52
+	android:targetSdkVersion
+		INJECTED from /Users/abhijithpc/AndroidStudioProjects/Reone_Android/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/abhijithpc/AndroidStudioProjects/Reone_Android/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/abhijithpc/AndroidStudioProjects/Reone_Android/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/abhijithpc/AndroidStudioProjects/Reone_Android/android/app/src/debug/AndroidManifest.xml
+intent#action:name:android.intent.action.GET_CONTENT+data:mimeType:*/*
+ADDED from [:file_picker] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/file_picker/intermediates/merged_manifest/debug/AndroidManifest.xml:14:9-18:18
+action#android.intent.action.GET_CONTENT
+ADDED from [:file_picker] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/file_picker/intermediates/merged_manifest/debug/AndroidManifest.xml:15:13-72
+	android:name
+		ADDED from [:file_picker] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/file_picker/intermediates/merged_manifest/debug/AndroidManifest.xml:15:21-69
+data
+ADDED from [:file_picker] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/file_picker/intermediates/merged_manifest/debug/AndroidManifest.xml:17:13-44
+	android:mimeType
+		ADDED from [:file_picker] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/file_picker/intermediates/merged_manifest/debug/AndroidManifest.xml:17:19-41
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [:flutter_background_service_android] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/flutter_background_service_android/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-77
+	android:name
+		ADDED from [:flutter_background_service_android] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/flutter_background_service_android/intermediates/merged_manifest/debug/AndroidManifest.xml:9:22-74
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [:flutter_background_service_android] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/flutter_background_service_android/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from [:flutter_background_service_android] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/flutter_background_service_android/intermediates/merged_manifest/debug/AndroidManifest.xml:10:22-78
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:flutter_background_service_android] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/flutter_background_service_android/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-68
+	android:name
+		ADDED from [:flutter_background_service_android] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/flutter_background_service_android/intermediates/merged_manifest/debug/AndroidManifest.xml:11:22-65
+service#id.flutter.flutter_background_service.BackgroundService
+ADDED from [:flutter_background_service_android] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/flutter_background_service_android/intermediates/merged_manifest/debug/AndroidManifest.xml:14:9-18:44
+	android:enabled
+		ADDED from [:flutter_background_service_android] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/flutter_background_service_android/intermediates/merged_manifest/debug/AndroidManifest.xml:16:13-35
+	android:exported
+		ADDED from [:flutter_background_service_android] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/flutter_background_service_android/intermediates/merged_manifest/debug/AndroidManifest.xml:17:13-36
+	android:stopWithTask
+		ADDED from [:flutter_background_service_android] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/flutter_background_service_android/intermediates/merged_manifest/debug/AndroidManifest.xml:18:13-41
+	android:name
+		ADDED from [:flutter_background_service_android] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/flutter_background_service_android/intermediates/merged_manifest/debug/AndroidManifest.xml:15:13-83
+receiver#id.flutter.flutter_background_service.WatchdogReceiver
+ADDED from [:flutter_background_service_android] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/flutter_background_service_android/intermediates/merged_manifest/debug/AndroidManifest.xml:20:9-23:39
+	android:enabled
+		ADDED from [:flutter_background_service_android] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/flutter_background_service_android/intermediates/merged_manifest/debug/AndroidManifest.xml:22:13-35
+	android:exported
+		ADDED from [:flutter_background_service_android] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/flutter_background_service_android/intermediates/merged_manifest/debug/AndroidManifest.xml:23:13-36
+	android:name
+		ADDED from [:flutter_background_service_android] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/flutter_background_service_android/intermediates/merged_manifest/debug/AndroidManifest.xml:21:13-82
+receiver#id.flutter.flutter_background_service.BootReceiver
+ADDED from [:flutter_background_service_android] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/flutter_background_service_android/intermediates/merged_manifest/debug/AndroidManifest.xml:24:9-33:20
+	android:enabled
+		ADDED from [:flutter_background_service_android] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/flutter_background_service_android/intermediates/merged_manifest/debug/AndroidManifest.xml:26:13-35
+	android:exported
+		ADDED from [:flutter_background_service_android] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/flutter_background_service_android/intermediates/merged_manifest/debug/AndroidManifest.xml:27:13-36
+	android:name
+		ADDED from [:flutter_background_service_android] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/flutter_background_service_android/intermediates/merged_manifest/debug/AndroidManifest.xml:25:13-78
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.MY_PACKAGE_REPLACED+action:name:android.intent.action.QUICKBOOT_POWERON
+ADDED from [:flutter_background_service_android] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/flutter_background_service_android/intermediates/merged_manifest/debug/AndroidManifest.xml:28:13-32:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [:flutter_background_service_android] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/flutter_background_service_android/intermediates/merged_manifest/debug/AndroidManifest.xml:29:17-79
+	android:name
+		ADDED from [:flutter_background_service_android] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/flutter_background_service_android/intermediates/merged_manifest/debug/AndroidManifest.xml:29:25-76
+action#android.intent.action.QUICKBOOT_POWERON
+ADDED from [:flutter_background_service_android] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/flutter_background_service_android/intermediates/merged_manifest/debug/AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [:flutter_background_service_android] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/flutter_background_service_android/intermediates/merged_manifest/debug/AndroidManifest.xml:30:25-79
+action#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from [:flutter_background_service_android] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/flutter_background_service_android/intermediates/merged_manifest/debug/AndroidManifest.xml:31:17-84
+	android:name
+		ADDED from [:flutter_background_service_android] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/flutter_background_service_android/intermediates/merged_manifest/debug/AndroidManifest.xml:31:25-81
+intent#action:name:android.support.customtabs.action.CustomTabsService
+ADDED from [:flutter_inappwebview] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-12:18
+action#android.support.customtabs.action.CustomTabsService
+ADDED from [:flutter_inappwebview] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-90
+	android:name
+		ADDED from [:flutter_inappwebview] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:11:21-87
+activity#com.pichillilorenzo.flutter_inappwebview.in_app_browser.InAppBrowserActivity
+ADDED from [:flutter_inappwebview] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:16:9-20:47
+	android:exported
+		ADDED from [:flutter_inappwebview] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:19:13-37
+	android:configChanges
+		ADDED from [:flutter_inappwebview] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:18:13-137
+	android:theme
+		ADDED from [:flutter_inappwebview] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:20:13-44
+	android:name
+		ADDED from [:flutter_inappwebview] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:17:13-104
+activity#com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.ChromeCustomTabsActivity
+ADDED from [:flutter_inappwebview] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:21:9-24:55
+	android:exported
+		ADDED from [:flutter_inappwebview] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:23:13-37
+	android:theme
+		ADDED from [:flutter_inappwebview] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:24:13-52
+	android:name
+		ADDED from [:flutter_inappwebview] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:22:13-112
+activity#com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.TrustedWebActivity
+ADDED from [:flutter_inappwebview] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:25:9-28:55
+	android:exported
+		ADDED from [:flutter_inappwebview] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:27:13-37
+	android:theme
+		ADDED from [:flutter_inappwebview] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:28:13-52
+	android:name
+		ADDED from [:flutter_inappwebview] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:26:13-106
+activity#com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.ChromeCustomTabsActivitySingleInstance
+ADDED from [:flutter_inappwebview] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:29:9-33:55
+	android:launchMode
+		ADDED from [:flutter_inappwebview] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:32:13-48
+	android:exported
+		ADDED from [:flutter_inappwebview] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:31:13-37
+	android:theme
+		ADDED from [:flutter_inappwebview] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:33:13-52
+	android:name
+		ADDED from [:flutter_inappwebview] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:30:13-126
+activity#com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.TrustedWebActivitySingleInstance
+ADDED from [:flutter_inappwebview] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:34:9-38:55
+	android:launchMode
+		ADDED from [:flutter_inappwebview] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:37:13-48
+	android:exported
+		ADDED from [:flutter_inappwebview] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:36:13-37
+	android:theme
+		ADDED from [:flutter_inappwebview] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:38:13-52
+	android:name
+		ADDED from [:flutter_inappwebview] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:35:13-120
+receiver#com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.ActionBroadcastReceiver
+ADDED from [:flutter_inappwebview] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:40:9-43:40
+	android:enabled
+		ADDED from [:flutter_inappwebview] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:42:13-35
+	android:exported
+		ADDED from [:flutter_inappwebview] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:43:13-37
+	android:name
+		ADDED from [:flutter_inappwebview] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:41:13-111
+meta-data#io.flutter.embedded_views_preview
+ADDED from [:flutter_inappwebview] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:45:9-47:36
+	android:value
+		ADDED from [:flutter_inappwebview] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:47:13-33
+	android:name
+		ADDED from [:flutter_inappwebview] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:46:13-61
+uses-permission#android.permission.VIBRATE
+ADDED from [:flutter_local_notifications] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-66
+	android:name
+		ADDED from [:flutter_local_notifications] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:9:22-63
+provider#io.flutter.plugins.imagepicker.ImagePickerFileProvider
+ADDED from [:image_picker_android] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:11:9-19:20
+	android:grantUriPermissions
+		ADDED from [:image_picker_android] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:15:13-47
+	android:authorities
+		ADDED from [:image_picker_android] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-74
+	android:exported
+		ADDED from [:image_picker_android] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-37
+	android:name
+		ADDED from [:image_picker_android] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-82
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:image_picker_android] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:16:13-18:75
+	android:resource
+		ADDED from [:image_picker_android] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:18:17-72
+	android:name
+		ADDED from [:image_picker_android] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:17:17-67
+service#com.google.android.gms.metadata.ModuleDependencies
+ADDED from [:image_picker_android] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:21:9-33:19
+	android:enabled
+		ADDED from [:image_picker_android] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:23:13-36
+	android:exported
+		ADDED from [:image_picker_android] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:24:13-37
+	tools:ignore
+		ADDED from [:image_picker_android] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:25:13-40
+	android:name
+		ADDED from [:image_picker_android] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:22:13-78
+intent-filter#action:name:com.google.android.gms.metadata.MODULE_DEPENDENCIES
+ADDED from [:image_picker_android] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:26:13-28:29
+action#com.google.android.gms.metadata.MODULE_DEPENDENCIES
+ADDED from [:image_picker_android] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:27:17-94
+	android:name
+		ADDED from [:image_picker_android] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:27:25-91
+meta-data#photopicker_activity:0:required
+ADDED from [:image_picker_android] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:30:13-32:36
+	android:value
+		ADDED from [:image_picker_android] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:32:17-33
+	android:name
+		ADDED from [:image_picker_android] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:31:17-63
+service#com.baseflow.geolocator.GeolocatorLocationService
+ADDED from [:geolocator_android] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-14:56
+	android:enabled
+		ADDED from [:geolocator_android] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-35
+	android:exported
+		ADDED from [:geolocator_android] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-37
+	android:foregroundServiceType
+		ADDED from [:geolocator_android] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-53
+	android:name
+		ADDED from [:geolocator_android] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-77
+uses-permission#android.permission.READ_MEDIA_IMAGES
+ADDED from [:open_filex] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/open_filex/intermediates/merged_manifest/debug/AndroidManifest.xml:13:5-76
+	android:name
+		ADDED from [:open_filex] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/open_filex/intermediates/merged_manifest/debug/AndroidManifest.xml:13:22-73
+uses-permission#android.permission.READ_MEDIA_VIDEO
+ADDED from [:open_filex] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/open_filex/intermediates/merged_manifest/debug/AndroidManifest.xml:14:5-75
+	android:name
+		ADDED from [:open_filex] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/open_filex/intermediates/merged_manifest/debug/AndroidManifest.xml:14:22-72
+uses-permission#android.permission.READ_MEDIA_AUDIO
+ADDED from [:open_filex] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/open_filex/intermediates/merged_manifest/debug/AndroidManifest.xml:15:5-75
+	android:name
+		ADDED from [:open_filex] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/open_filex/intermediates/merged_manifest/debug/AndroidManifest.xml:15:22-72
+provider#com.crazecoder.openfile.FileProvider
+ADDED from [:open_filex] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/open_filex/intermediates/merged_manifest/debug/AndroidManifest.xml:18:9-27:20
+	android:grantUriPermissions
+		ADDED from [:open_filex] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/open_filex/intermediates/merged_manifest/debug/AndroidManifest.xml:22:13-47
+	android:authorities
+		ADDED from [:open_filex] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/open_filex/intermediates/merged_manifest/debug/AndroidManifest.xml:20:13-88
+	android:exported
+		ADDED from [:open_filex] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/open_filex/intermediates/merged_manifest/debug/AndroidManifest.xml:21:13-37
+	tools:replace
+		ADDED from [:open_filex] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/open_filex/intermediates/merged_manifest/debug/AndroidManifest.xml:23:13-48
+	android:name
+		ADDED from [:open_filex] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/open_filex/intermediates/merged_manifest/debug/AndroidManifest.xml:19:13-64
+provider#io.sentry.android.core.SentryInitProvider
+ADDED from [:sentry_flutter] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/sentry_flutter/intermediates/merged_manifest/debug/AndroidManifest.xml:11:9-15:35
+REJECTED from [io.sentry:sentry-android-core:7.8.0] /Users/abhijithpc/.gradle/caches/transforms-3/2859a1128fc2e2105829078b541c2850/transformed/jetified-sentry-android-core-7.8.0/AndroidManifest.xml:12:9-15:40
+	tools:node
+		ADDED from [:sentry_flutter] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/sentry_flutter/intermediates/merged_manifest/debug/AndroidManifest.xml:15:13-32
+	android:authorities
+		ADDED from [:sentry_flutter] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/sentry_flutter/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-70
+	android:exported
+		ADDED from [:sentry_flutter] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/sentry_flutter/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-37
+	android:name
+		ADDED from [:sentry_flutter] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/sentry_flutter/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-69
+activity#io.flutter.plugins.urllauncher.WebViewActivity
+ADDED from [:url_launcher_android] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-13:74
+	android:exported
+		ADDED from [:url_launcher_android] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-37
+	android:theme
+		ADDED from [:url_launcher_android] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-71
+	android:name
+		ADDED from [:url_launcher_android] /Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-74
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0] /Users/abhijithpc/.gradle/caches/transforms-3/7da06a65f0da853f847ffe05942799c5/transformed/jetified-window-1.0.0/AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] /Users/abhijithpc/.gradle/caches/transforms-3/7da06a65f0da853f847ffe05942799c5/transformed/jetified-window-1.0.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] /Users/abhijithpc/.gradle/caches/transforms-3/7da06a65f0da853f847ffe05942799c5/transformed/jetified-window-1.0.0/AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0] /Users/abhijithpc/.gradle/caches/transforms-3/7da06a65f0da853f847ffe05942799c5/transformed/jetified-window-1.0.0/AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] /Users/abhijithpc/.gradle/caches/transforms-3/7da06a65f0da853f847ffe05942799c5/transformed/jetified-window-1.0.0/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] /Users/abhijithpc/.gradle/caches/transforms-3/7da06a65f0da853f847ffe05942799c5/transformed/jetified-window-1.0.0/AndroidManifest.xml:29:13-51
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:21.0.0] /Users/abhijithpc/.gradle/caches/transforms-3/2a518a01141a8df937dbcdb7258a1a51/transformed/jetified-play-services-auth-21.0.0/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:21.0.0] /Users/abhijithpc/.gradle/caches/transforms-3/2a518a01141a8df937dbcdb7258a1a51/transformed/jetified-play-services-auth-21.0.0/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:21.0.0] /Users/abhijithpc/.gradle/caches/transforms-3/2a518a01141a8df937dbcdb7258a1a51/transformed/jetified-play-services-auth-21.0.0/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:21.0.0] /Users/abhijithpc/.gradle/caches/transforms-3/2a518a01141a8df937dbcdb7258a1a51/transformed/jetified-play-services-auth-21.0.0/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:21.0.0] /Users/abhijithpc/.gradle/caches/transforms-3/2a518a01141a8df937dbcdb7258a1a51/transformed/jetified-play-services-auth-21.0.0/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:21.0.0] /Users/abhijithpc/.gradle/caches/transforms-3/2a518a01141a8df937dbcdb7258a1a51/transformed/jetified-play-services-auth-21.0.0/AndroidManifest.xml:33:9-37:51
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:21.0.0] /Users/abhijithpc/.gradle/caches/transforms-3/2a518a01141a8df937dbcdb7258a1a51/transformed/jetified-play-services-auth-21.0.0/AndroidManifest.xml:35:13-36
+	android:visibleToInstantApps
+		ADDED from [com.google.android.gms:play-services-auth:21.0.0] /Users/abhijithpc/.gradle/caches/transforms-3/2a518a01141a8df937dbcdb7258a1a51/transformed/jetified-play-services-auth-21.0.0/AndroidManifest.xml:37:13-48
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:21.0.0] /Users/abhijithpc/.gradle/caches/transforms-3/2a518a01141a8df937dbcdb7258a1a51/transformed/jetified-play-services-auth-21.0.0/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:21.0.0] /Users/abhijithpc/.gradle/caches/transforms-3/2a518a01141a8df937dbcdb7258a1a51/transformed/jetified-play-services-auth-21.0.0/AndroidManifest.xml:34:13-89
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.3.0] /Users/abhijithpc/.gradle/caches/transforms-3/4789ea3ed2867641957003add0eb1569/transformed/jetified-play-services-base-18.3.0/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.3.0] /Users/abhijithpc/.gradle/caches/transforms-3/4789ea3ed2867641957003add0eb1569/transformed/jetified-play-services-base-18.3.0/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.3.0] /Users/abhijithpc/.gradle/caches/transforms-3/4789ea3ed2867641957003add0eb1569/transformed/jetified-play-services-base-18.3.0/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.3.0] /Users/abhijithpc/.gradle/caches/transforms-3/4789ea3ed2867641957003add0eb1569/transformed/jetified-play-services-base-18.3.0/AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.3.0] /Users/abhijithpc/.gradle/caches/transforms-3/0d09ddc51efd9403131e59bb3c595419/transformed/jetified-play-services-basement-18.3.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.3.0] /Users/abhijithpc/.gradle/caches/transforms-3/0d09ddc51efd9403131e59bb3c595419/transformed/jetified-play-services-basement-18.3.0/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.3.0] /Users/abhijithpc/.gradle/caches/transforms-3/0d09ddc51efd9403131e59bb3c595419/transformed/jetified-play-services-basement-18.3.0/AndroidManifest.xml:22:13-58
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/abhijithpc/.gradle/caches/transforms-3/b456049c067cd6ca977b003fbfd6fe85/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/abhijithpc/.gradle/caches/transforms-3/89b9e858071464c57c03ddc4f57d9964/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/abhijithpc/.gradle/caches/transforms-3/89b9e858071464c57c03ddc4f57d9964/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/abhijithpc/.gradle/caches/transforms-3/404fa93f81bb7308b89dbdcb6da04ae8/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/abhijithpc/.gradle/caches/transforms-3/404fa93f81bb7308b89dbdcb6da04ae8/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/abhijithpc/.gradle/caches/transforms-3/f736546f411bdb4a8545edb66d057292/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/abhijithpc/.gradle/caches/transforms-3/f736546f411bdb4a8545edb66d057292/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/abhijithpc/.gradle/caches/transforms-3/b456049c067cd6ca977b003fbfd6fe85/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/abhijithpc/.gradle/caches/transforms-3/b456049c067cd6ca977b003fbfd6fe85/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/abhijithpc/.gradle/caches/transforms-3/b456049c067cd6ca977b003fbfd6fe85/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/abhijithpc/.gradle/caches/transforms-3/b456049c067cd6ca977b003fbfd6fe85/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/abhijithpc/.gradle/caches/transforms-3/b456049c067cd6ca977b003fbfd6fe85/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/abhijithpc/.gradle/caches/transforms-3/b456049c067cd6ca977b003fbfd6fe85/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/abhijithpc/.gradle/caches/transforms-3/b456049c067cd6ca977b003fbfd6fe85/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:30:17-75
+provider#io.sentry.android.core.SentryPerformanceProvider
+ADDED from [io.sentry:sentry-android-core:7.8.0] /Users/abhijithpc/.gradle/caches/transforms-3/2859a1128fc2e2105829078b541c2850/transformed/jetified-sentry-android-core-7.8.0/AndroidManifest.xml:16:9-20:39
+	android:authorities
+		ADDED from [io.sentry:sentry-android-core:7.8.0] /Users/abhijithpc/.gradle/caches/transforms-3/2859a1128fc2e2105829078b541c2850/transformed/jetified-sentry-android-core-7.8.0/AndroidManifest.xml:18:13-77
+	android:exported
+		ADDED from [io.sentry:sentry-android-core:7.8.0] /Users/abhijithpc/.gradle/caches/transforms-3/2859a1128fc2e2105829078b541c2850/transformed/jetified-sentry-android-core-7.8.0/AndroidManifest.xml:19:13-37
+	android:initOrder
+		ADDED from [io.sentry:sentry-android-core:7.8.0] /Users/abhijithpc/.gradle/caches/transforms-3/2859a1128fc2e2105829078b541c2850/transformed/jetified-sentry-android-core-7.8.0/AndroidManifest.xml:20:13-36
+	android:name
+		ADDED from [io.sentry:sentry-android-core:7.8.0] /Users/abhijithpc/.gradle/caches/transforms-3/2859a1128fc2e2105829078b541c2850/transformed/jetified-sentry-android-core-7.8.0/AndroidManifest.xml:17:13-76
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/abhijithpc/.gradle/caches/transforms-3/89b9e858071464c57c03ddc4f57d9964/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/abhijithpc/.gradle/caches/transforms-3/89b9e858071464c57c03ddc4f57d9964/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/abhijithpc/.gradle/caches/transforms-3/89b9e858071464c57c03ddc4f57d9964/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:30:17-78
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] /Users/abhijithpc/.gradle/caches/transforms-3/38470c5b6c987eeb760c853f0a18aaca/transformed/core-1.13.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.0] /Users/abhijithpc/.gradle/caches/transforms-3/38470c5b6c987eeb760c853f0a18aaca/transformed/core-1.13.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.0] /Users/abhijithpc/.gradle/caches/transforms-3/38470c5b6c987eeb760c853f0a18aaca/transformed/core-1.13.0/AndroidManifest.xml:23:9-81
+permission#com.resustainability.appmintresus.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] /Users/abhijithpc/.gradle/caches/transforms-3/38470c5b6c987eeb760c853f0a18aaca/transformed/core-1.13.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.0] /Users/abhijithpc/.gradle/caches/transforms-3/38470c5b6c987eeb760c853f0a18aaca/transformed/core-1.13.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.0] /Users/abhijithpc/.gradle/caches/transforms-3/38470c5b6c987eeb760c853f0a18aaca/transformed/core-1.13.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] /Users/abhijithpc/.gradle/caches/transforms-3/38470c5b6c987eeb760c853f0a18aaca/transformed/core-1.13.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.0] /Users/abhijithpc/.gradle/caches/transforms-3/38470c5b6c987eeb760c853f0a18aaca/transformed/core-1.13.0/AndroidManifest.xml:26:22-94
+uses-permission#com.resustainability.appmintresus.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] /Users/abhijithpc/.gradle/caches/transforms-3/38470c5b6c987eeb760c853f0a18aaca/transformed/core-1.13.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.0] /Users/abhijithpc/.gradle/caches/transforms-3/38470c5b6c987eeb760c853f0a18aaca/transformed/core-1.13.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/abhijithpc/.gradle/caches/transforms-3/404fa93f81bb7308b89dbdcb6da04ae8/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/abhijithpc/.gradle/caches/transforms-3/404fa93f81bb7308b89dbdcb6da04ae8/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/abhijithpc/.gradle/caches/transforms-3/404fa93f81bb7308b89dbdcb6da04ae8/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/abhijithpc/.gradle/caches/transforms-3/404fa93f81bb7308b89dbdcb6da04ae8/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/abhijithpc/.gradle/caches/transforms-3/404fa93f81bb7308b89dbdcb6da04ae8/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/abhijithpc/.gradle/caches/transforms-3/404fa93f81bb7308b89dbdcb6da04ae8/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/abhijithpc/.gradle/caches/transforms-3/404fa93f81bb7308b89dbdcb6da04ae8/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/abhijithpc/.gradle/caches/transforms-3/404fa93f81bb7308b89dbdcb6da04ae8/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/abhijithpc/.gradle/caches/transforms-3/404fa93f81bb7308b89dbdcb6da04ae8/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/abhijithpc/.gradle/caches/transforms-3/404fa93f81bb7308b89dbdcb6da04ae8/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/abhijithpc/.gradle/caches/transforms-3/404fa93f81bb7308b89dbdcb6da04ae8/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/abhijithpc/.gradle/caches/transforms-3/404fa93f81bb7308b89dbdcb6da04ae8/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/abhijithpc/.gradle/caches/transforms-3/404fa93f81bb7308b89dbdcb6da04ae8/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/abhijithpc/.gradle/caches/transforms-3/404fa93f81bb7308b89dbdcb6da04ae8/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/abhijithpc/.gradle/caches/transforms-3/404fa93f81bb7308b89dbdcb6da04ae8/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/abhijithpc/.gradle/caches/transforms-3/404fa93f81bb7308b89dbdcb6da04ae8/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/abhijithpc/.gradle/caches/transforms-3/404fa93f81bb7308b89dbdcb6da04ae8/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/abhijithpc/.gradle/caches/transforms-3/404fa93f81bb7308b89dbdcb6da04ae8/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/abhijithpc/.gradle/caches/transforms-3/404fa93f81bb7308b89dbdcb6da04ae8/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/abhijithpc/.gradle/caches/transforms-3/404fa93f81bb7308b89dbdcb6da04ae8/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/abhijithpc/.gradle/caches/transforms-3/404fa93f81bb7308b89dbdcb6da04ae8/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:50:25-92

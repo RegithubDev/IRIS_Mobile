@@ -1,0 +1,7 @@
+#Thu Jul 25 13:04:38 IST 2024
+base.0=/Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/app/intermediates/dex/debug/minifyDebugWithR8/classes.dex
+base.1=/Users/abhijithpc/AndroidStudioProjects/Reone_Android/build/app/intermediates/desugar_lib_dex/debug/classes1000.dex
+path.0=classes.dex
+path.1=classes1000.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex

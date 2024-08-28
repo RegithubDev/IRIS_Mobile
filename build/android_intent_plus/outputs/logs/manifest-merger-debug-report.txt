@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/abhijithpc/.pub-cache/hosted/pub.dev/android_intent_plus-5.0.2/android/src/main/AndroidManifest.xml:1:1-62
+INJECTED from /Users/abhijithpc/.pub-cache/hosted/pub.dev/android_intent_plus-5.0.2/android/src/main/AndroidManifest.xml:1:1-62
+INJECTED from /Users/abhijithpc/.pub-cache/hosted/pub.dev/android_intent_plus-5.0.2/android/src/main/AndroidManifest.xml:1:1-62
+	package
+		ADDED from /Users/abhijithpc/.pub-cache/hosted/pub.dev/android_intent_plus-5.0.2/android/src/main/AndroidManifest.xml:1:11-60
+		INJECTED from /Users/abhijithpc/.pub-cache/hosted/pub.dev/android_intent_plus-5.0.2/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/abhijithpc/.pub-cache/hosted/pub.dev/android_intent_plus-5.0.2/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/abhijithpc/.pub-cache/hosted/pub.dev/android_intent_plus-5.0.2/android/src/main/AndroidManifest.xml:1:1-62
+uses-sdk
+INJECTED from /Users/abhijithpc/.pub-cache/hosted/pub.dev/android_intent_plus-5.0.2/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/abhijithpc/.pub-cache/hosted/pub.dev/android_intent_plus-5.0.2/android/src/main/AndroidManifest.xml
+INJECTED from /Users/abhijithpc/.pub-cache/hosted/pub.dev/android_intent_plus-5.0.2/android/src/main/AndroidManifest.xml
+INJECTED from /Users/abhijithpc/.pub-cache/hosted/pub.dev/android_intent_plus-5.0.2/android/src/main/AndroidManifest.xml
+INJECTED from /Users/abhijithpc/.pub-cache/hosted/pub.dev/android_intent_plus-5.0.2/android/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/abhijithpc/.pub-cache/hosted/pub.dev/android_intent_plus-5.0.2/android/src/main/AndroidManifest.xml
+		ADDED from /Users/abhijithpc/.pub-cache/hosted/pub.dev/android_intent_plus-5.0.2/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/abhijithpc/.pub-cache/hosted/pub.dev/android_intent_plus-5.0.2/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/abhijithpc/.pub-cache/hosted/pub.dev/android_intent_plus-5.0.2/android/src/main/AndroidManifest.xml
+		ADDED from /Users/abhijithpc/.pub-cache/hosted/pub.dev/android_intent_plus-5.0.2/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/abhijithpc/.pub-cache/hosted/pub.dev/android_intent_plus-5.0.2/android/src/main/AndroidManifest.xml

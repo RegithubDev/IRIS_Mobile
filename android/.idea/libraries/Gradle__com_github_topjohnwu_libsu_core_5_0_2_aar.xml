@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.topjohnwu.libsu:core:5.0.2@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/Downloads/Chalachithram-master/gradle/caches/transforms-3/4ed3069623a711f8b3110a07e79861b3/transformed/jetified-core-5.0.2/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/Chalachithram-master/gradle/caches/transforms-3/4ed3069623a711f8b3110a07e79861b3/transformed/jetified-core-5.0.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Downloads/Chalachithram-master/gradle/caches/transforms-3/4ed3069623a711f8b3110a07e79861b3/transformed/jetified-core-5.0.2/res" />
+      <root url="file://$USER_HOME$/Downloads/Chalachithram-master/gradle/caches/transforms-3/4ed3069623a711f8b3110a07e79861b3/transformed/jetified-core-5.0.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/Chalachithram-master/gradle/caches/modules-2/files-2.1/com.github.topjohnwu.libsu/core/5.0.2/563e11e76aa0ffa7b4606c6b387a719c2aa162a1/core-5.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
